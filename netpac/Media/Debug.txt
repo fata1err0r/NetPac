@@ -1,0 +1,31 @@
+06-03-2008 02:32:26 | --------------------------------------------
+06-03-2008 02:32:26 | Truevision3D Debug/Log File
+06-03-2008 02:32:26 | --------------------------------------------
+06-03-2008 02:32:26 | Engine Version : 6.5
+06-03-2008 02:32:26 | ENGINE INFO : DLL Compilation time Dec 17 2006 20:54:22
+06-03-2008 02:32:26 | DEVICE INIT : Initialize Depth
+06-03-2008 02:32:26 | DEVICE INIT : Initializing the device in windowed mode, with a render surface size of 800x600, format 22, depthbuffer 75
+06-03-2008 02:32:26 | VIEWPORT MANAGER : Main viewport initialization
+06-03-2008 02:32:26 | VIEWPORT MANAGER : Main viewport initialized (800x600)
+06-03-2008 02:32:26 | DEVICE INIT : Initialization successful !
+06-03-2008 02:32:26 | DEVICE INFO :  3D Card : NVIDIA GeForce 6600 GT   | Card ID : 320 | Driver ID : 727817
+06-03-2008 02:32:26 | DEVICE INFO : Available texture memory : 465 MB
+06-03-2008 02:32:26 | DEVICE INFO : Vertex Shaders 3.0 supported in hardware.
+06-03-2008 02:32:26 | Debug info : vs fffe0300  ps ffff0300 
+06-03-2008 02:32:26 | DEVICE INFO : Pixel Shaders 3.0 supported in hardware.
+06-03-2008 02:32:26 | DEVICE INFO : Driver used is a DirectX9-level driver 'nv4_disp.dll'. Excellent
+06-03-2008 02:32:26 | DEVICE INFO : Card Type Geforce6xxx/7xxx/ATIRadeonX1xxx  Level card, third generation of programmable card
+06-03-2008 02:32:26 | TEXTURE MANAGER : Successfully created a render surface 512x512 on slot 2
+06-03-2008 02:32:26 | ACTOR MANAGER : TVA Actor 'pacman.tva' successfully loaded in 15 ms
+06-03-2008 02:32:26 | TEXTURE MANAGER : Loading of 'pacman.dds' successful 'NONAME' 
+06-03-2008 02:32:26 | TEXTURE MANAGER : Loading of 'ghost.dds' successful 'ghost.dds' 
+06-03-2008 02:32:26 | ACTOR MANAGER : TVA Actor 'ghost.tva' successfully loaded in 16 ms
+06-03-2008 02:32:26 | ACTOR MANAGER : TVA Actor 'arrow.tva' successfully loaded in 0 ms
+06-03-2008 02:32:26 | TEXTURE MANAGER : Loading of 'spawn_beem.dds' successful 'spawn_beem.dds' 
+06-03-2008 02:32:26 | ACTOR MANAGER : TVA Actor 'spawn_beam.tva' successfully loaded in 0 ms
+06-03-2008 02:32:26 | TEXTURE MANAGER : Loading of 'wall.dds' successful 'NONAME' 
+06-03-2008 02:32:26 | TEXTURE MANAGER : Loading of 'main_dot.dds' successful 'main_dot.dds' 
+06-03-2008 02:32:26 | TEXTURE MANAGER : Loading of 'outer dot.dds' successful 'outer dot.dds' 
+06-03-2008 02:32:26 | ACTOR MANAGER : TVA Actor 'dot.tva' successfully loaded in 0 ms
+06-03-2008 02:32:27 | TEXTURE MANAGER : Loading of 'pill_t.dds' successful 'pill_t.dds' 
+06-03-2008 02:32:27 | ACTOR MANAGER : TVA Actor 'pill.tva' successfully loaded in 16 ms

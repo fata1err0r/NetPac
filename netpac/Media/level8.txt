@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXX
+X...XXX......XXX...X
+X........X...X...O.X
+X..XX.XX.XX....X...X
+X..XX.XX.XXXXXXXX.XX
+X..XX.X...XXXXXXX.XX
+XX.X....O.........XX
+XX.X XX...XXXX....XX
+XX.X XXX.XXX......XX
+XX...XXX.XXX.XX...XX
+XX............X...XX
+X.......XXXXSXXX.XXX
+X.XX.XX.XXXXXXXX.XXX
+X.XX.XX.XX G  XX..XX
+X.XX.XX.XXXXXXXX..XX
+X.X.....XXXXXXXX..XX
+X...XXX......PXX...X
+XOXXXXXXXXXX.XXX.O.X
+X..................X
+XXXXXXXXXXXXXXXXXXXX
+                        "HIGH_TECH" by Georgios

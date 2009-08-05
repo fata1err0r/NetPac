@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXX
+X..P.....O.... OXX X
+X..X......X..XX.XXXX
+X.........X..XX.OX X
+X..O.X.O.....XX.XXXX
+X.........X..XO.X  X   
+X....XX......X..X  X   
+X.X...XX...O.X.xXXXX
+X.X..........X..XXXX   
+XO.....O.....XO...XX
+X...XXXX...X.XX.XOXX  
+X.........XX.XX.X.XX   
+X...O.....X..XX...XX
+X.....XX.....XX.XXXX
+X.O....X.x.O....XXXX
+X..XX..X.....XXXXXXX
+X..XX....XX..SX   XX
+XO.........O.XX G XX
+XXXXXXXXXXXXXXXXXXXX
+                    
+            "TETRIS: Doom of the Ghost" by GEORGIOS

@@ -1,0 +1,21 @@
+XXXXXXXXX  XXXXXXXXX
+X..O...XXP XX...O..X             
+X.XXX...X  X...XXX.X            
+X.XX..X.X  X.X..XX.X        
+X.X..XX.X  X.XX..X.X      
+X..XXX..X  X..XXX..X              
+X..................X                      
+XXXXX...XXXS...XXXXX          
+X...X  X G X   X...X    
+X.X.X   XXX    X.X.X     
+X.X.X          X.X.X    
+X.X.XXX X  X XXX.X.X    
+X.X.... X  X ....X.X
+X.XXXXX X  X XXXXX.X
+X......      ......X
+XXXXXXXX    XXXXXXXX
+X......X    X......X
+X.X.XXXX    XXXX...X
+XOX.....    ......OX
+XXXXXXXXX  XXXXXXXXX
+                        "Pacapalooza" by Jared

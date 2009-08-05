@@ -1,0 +1,21 @@
+XXXXXXXXX XXXXXXXXXX
+X.................OX
+X.X.X.X...X...X..X.X
+X.O.X.XX..X..XX....X
+X.X.X.....X.....X..X
+X.X.X.XX.....XX.XX.X   
+X.....XXX.X.XXX....X  
+XX.XX.XX..X..XX.X.XX
+XX....XX.XXX.XX....X 
+ ..................
+X...X..XXX.XXX..X.XX  
+X.X.X.....P.....X.XX  
+XOX.XX.XX.X.XX.XX.OX
+X.......X.X.X......X
+X.XX.X.XX...XX..XX.X
+X..X......X.....X..X
+XX.....X....XX....XX
+XX.XX.X...SXXXXXXXXX
+XXO.....X.XX G    XX
+XXXXXXXXX XXXXXXXXXX
+                        "Knossos" by Georgios

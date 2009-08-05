@@ -1,0 +1,10 @@
+1.1 30/5/2007
+Gameplay:
+  When player eats pacman they recieve pill powerup instantly.
+  Respawn time for ghosts is lower when level intially starts.
+Feature:
+  Pressing F5 will refresh the level from .txt file for level editing purposes.
+  Changed control style to be more like original pacman.
+
+1.0 22/5/2007
+Initial Release

@@ -1,0 +1,21 @@
+ XXXXXXXXXXXXXXXXXX
+X..OXXX......XXXO..X
+X.X.X...X..X...X.X.X
+X.....XX....XX.....X
+ X...XX......XX...X
+X...X.....S....X...X
+ X.X.. XXXXX....X.X
+X...X.X  G  X..X...X
+XX.....XXXXX..... XX   
+ XX..............XXX
+XXX..X..X..X..X..XX
+XX..X..X.P..X..X..XX 
+X..XX.XX....XX.XX..X
+XX..X..X.XX.X..X..XX
+ XX..X...XX...X..XX 
+XO.X..............X
+ X...XX..XX..X..X.XX
+X...XX..XXX.X..XX.OX
+.....X......XX......
+XXXXXXXXXXXXXXXXXXXX
+                        "Dark Cave" by Georgios

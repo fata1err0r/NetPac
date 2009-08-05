@@ -1,0 +1,21 @@
+XXXXXXXXXXX XXXXXXXX
+ ..O.......O......O
+X...X...X.XXXX.XXX.X
+X...XX..X.X.....X..X
+X...X.X.X.XXX...X..X
+X...X..XX.X.....X..X
+X...X...X.XXXX..X..X
+X..................X
+X.O...............OX
+X..XXXXX.XXXX.XXXX.X
+X..X G X.X  X.X....X 
+X..XXXXX.XXXX.X....X 
+X..X.....X.SX.X....X
+X..X.....X..X.X....X
+X..X.....X..X.XXXX.X
+X..................X
+X....X....X...XX...X
+X.....X..X.....X...X
+..P....XX..O.XXXX... 
+XXXXXXXXXXX XXXXXXXX
+                        "uninspired" by Georgios
